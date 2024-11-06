@@ -38,6 +38,6 @@ Given a table of candidates and their skills, you're tasked with finding the can
 ### My solutions:
 > *These solution is based on Postgre SQL*
 
-**[Solution1](https://github.com/RahulRoy-rsp/CodingProblems/blob/master/matching_skills_solution_1.sql)**
-**[Solution2](https://github.com/RahulRoy-rsp/CodingProblems/blob/master/matching_skills_solution_2.sql)**
+**[Solution1](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Candidates_For_Data_Science_Job/matching_skills_solution_1.sql)**
+**[Solution2](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Candidates_For_Data_Science_Job/matching_skills_solution_2.sql)**
 
