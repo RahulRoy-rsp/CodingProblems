@@ -40,5 +40,5 @@ Write a query to find the **count of companies** that have posted duplicate job 
 ### My solutions:
 > *These solution is based on Postgre SQL*
 
-**[Solution1](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Duplicate_job_listings/duplicate_job_listings_1.sql)**
-**[Solution2](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Duplicate_job_listings/duplicate_job_listings_2.sql)**
+**[Solution1](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Duplicate_job_Listings/duplicate_job_listings_1.sql)**
+**[Solution2](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Duplicate_job_Listings/duplicate_job_listings_2.sql)**
