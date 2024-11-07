@@ -4,8 +4,6 @@ Assume you're given a table on user viewership categorized by device type, where
 
 You are tasked with writing a query that calculates the total viewership for **laptops** and **mobile devices**, where **mobile** is defined as the sum of **tablet** and **phone** viewership. The output should display the total viewership for laptops as `laptop_reviews` and the total viewership for mobile devices as `mobile_views`.
 
-### Assumption:
-- Effective **15 April 2023**, the solution has been updated to provide a more concise and easy-to-understand approach.
 
 ### Table: `viewership`
 
@@ -43,4 +41,3 @@ Based on the example input:
 > *These solution is based on Postgre SQL*
 
 **[Solution1](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Total_Viewership/total_viewerships_1.sql)**
-**[Solution1](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Total_Viewership/total_viewerships_2.sql)**

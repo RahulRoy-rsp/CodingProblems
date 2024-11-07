@@ -54,4 +54,4 @@ Write a query to return the IDs of the Facebook pages that have **zero likes**. 
 > *These solution is based on Postgre SQL*
 
 **[Solution1](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Pages_with_no_likes/pages_with_no_likes_1.sql)**
-**[Solution1](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Pages_with_no_likes/pages_with_no_likes_2.sql)**
+**[Solution2](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Pages_with_no_likes/pages_with_no_likes_2.sql)**
