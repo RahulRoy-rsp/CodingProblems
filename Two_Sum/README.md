@@ -29,7 +29,7 @@ Given a list of integers `nums` and an integer `target`, return the indices of t
 **Explanation:** There are no two elements we can pick that sum up to `2`. Remember, you can't use the same element twice!
 
 ### Problem Web-Link:
-**[Unfinished Parts](https://datalemur.com/questions/python-two-sum)**
+**[Two Sum](https://datalemur.com/questions/python-two-sum)**
 
 ### My solutions:
 > *These solution is based on Postgre SQL*
