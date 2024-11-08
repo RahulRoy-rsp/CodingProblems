@@ -40,4 +40,4 @@ Based on the example input:
 ### My solutions:
 > *These solution is based on Postgre SQL*
 
-**[Solution1](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Total_Viewership/total_viewerships_1.sql)**
+**[Solution1](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Total_Viewerships/total_viewerships_1.sql)**
