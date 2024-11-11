@@ -32,7 +32,6 @@ Given a list of integers `nums` and an integer `target`, return the indices of t
 **[Two Sum](https://datalemur.com/questions/python-two-sum)**
 
 ### My solutions:
-> *These solution is based on Postgre SQL*
 
 **[Solution1](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Two_Sum/two_sum_1.py)**
 **[Solution2](https://github.com/RahulRoy-rsp/CodingProblems/blob/main/Two_Sum/two_sum_2.py)**
